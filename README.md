@@ -6,3 +6,7 @@ www.dropbox.com/developers/apps
 2.	Luego seleccionar "Dropbox API":
 3.	Otorgar permisos a toda la cuenta de Dropbox (ya que será utilizada exclusivamente a fines de backup) e indicar un nombre.
 4.	Luego copiar el token generado.
+
+Requirements
+pip install django-telegrambot
+pip install dropbox
