@@ -1,9 +1,7 @@
 # Respaldos-a-dropbox-con-python
 
 Requirements
-pip install django-telegrambot
-pip install dropbox
-
+pip install django-telegrambot, dropbox
 
 Hola este es mi primer aporte para que puedan subir sus archivos a Dropbox con Python3.5+
 Primero deben Logearse en Dropbox Developers, con el siguiente enlace para poder obtener el token de acceso.
